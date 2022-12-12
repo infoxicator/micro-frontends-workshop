@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "name": "Bespoke Rubber Tuna",
+      "price": "637.00"
+    },
+    {
+      "name": "Handcrafted Fresh Cheese",
+      "price": "330.00"
+    },
+    {
+      "name": "Gorgeous Fresh Tuna",
+      "price": "756.00"
+    },
+    {
+      "name": "Modern Rubber Soap",
+      "price": "447.00"
+    },
+    {
+      "name": "Electronic Granite Shirt",
+      "price": "541.00"
+    }
+  ],
+  "cart": {
+    "name": "Electronic Granite Shirt",
+    "price": "541.00",
+    "quantity": "27"
+  }
+}

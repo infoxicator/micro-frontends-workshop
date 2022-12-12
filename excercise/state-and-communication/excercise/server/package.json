@@ -1,0 +1,14 @@
+{
+  "name": "mock-server",
+  "version": "1.0.0",
+  "description": "mock",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 9000"
+  },
+  "author": "Ruben Casas",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}

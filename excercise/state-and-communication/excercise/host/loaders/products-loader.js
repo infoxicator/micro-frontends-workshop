@@ -1,0 +1,1 @@
+export const loader = async () => fetch('http://localhost:9000/products');

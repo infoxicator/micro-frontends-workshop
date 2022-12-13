@@ -40,6 +40,7 @@ module.exports = {
   },
 
   plugins: [
+    // add the ModuleFederationPlugin here
     new HtmlWebPackPlugin({
       template: "./src/index.html",
     }),

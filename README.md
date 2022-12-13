@@ -41,7 +41,7 @@
 
 ## Lessons
 
-- [Module Federation Basics](./module-federation-basics.md)
-- [React Router 6](./react-router-mfe.md)
-- [State and Communication](./state-and-communication.md)
+- [Module Federation Basics](./src/module-federation-basics/module-federation-basics.md)
+- [React Router 6](./src/react-router-mfe/react-router-6-mfe.md)
+- [State and Communication](./src/state-and-communication/state-and-communication.md)
 

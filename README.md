@@ -21,7 +21,7 @@
 2. Select a lesson
 
    ```sh
-   cd micro-frontends-workshop/module-federation-basics
+   cd micro-frontends-workshop/src/module-federation-basics
    ```
 3. Install dependencies
 
